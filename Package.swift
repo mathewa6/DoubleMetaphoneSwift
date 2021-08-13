@@ -23,6 +23,8 @@
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 // THE SOFTWARE.
 
+// See https://developer.apple.com/documentation/xcode/creating_a_standalone_swift_package_with_xcode
+
 import PackageDescription
 
 let package = Package(
