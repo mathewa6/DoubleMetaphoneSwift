@@ -7,7 +7,7 @@
 //
 
 import Foundation
-import double_metaphone_swift
+@_implementationOnly import double_metaphone_swift
 
 public class DoubleMetaphoneSwift: NSObject {
 	let impl = DoubleMetaphoneImpl()
